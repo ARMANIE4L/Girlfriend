@@ -5,7 +5,7 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   #nameInput {
@@ -15,7 +15,7 @@ body {
   
   #generateButton {
     padding: 10px 20px;
-    background-color: #ff0055;
+    background-color: #ff008c;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -25,7 +25,7 @@ body {
   }
   
   #generateButton:hover {
-    background-color: #0022b8;
+    background-color: #b8004d;
   }
   
   #quote {
