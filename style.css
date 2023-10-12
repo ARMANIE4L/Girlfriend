@@ -5,7 +5,7 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    font-family: Arial, verdana, sans-serif;
+    font-family: cursive;
   }
   
   #nameInput {
@@ -40,7 +40,7 @@ body {
     padding-left: 30px;
     padding-right: 30px;
     font-size: 1.5em;
-
+      color: #ffffff;
   }
 
   #quote.show {
