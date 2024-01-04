@@ -1,2 +1,2 @@
 # Girlfriend
-fun project for a girlfriend lol...
+just practicing my knowledge and skills of JSON 
